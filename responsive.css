@@ -1,0 +1,45 @@
+@media(max-width:1000px){
+    article{
+        width: 90%;
+    }
+}
+
+@media(max-width:670px){
+    header h1{
+        font-size: 17px;
+    }
+
+    .pic{
+        padding-top: 50px;
+    }
+
+    header img{
+        width:100%;
+        border-radius: 0;
+    }
+
+    section{
+        margin-bottom: 50px;
+    }
+
+    section h1{
+        font-size: 15px;
+    }
+
+    section p{
+        font-size: 8px;
+    }
+
+    article{
+        margin:90px auto;
+    }
+
+    article h1{
+        font-size: 23px;
+        margin-bottom: 50px;
+    }
+
+    article p{
+        font-size: 8px;
+    }
+}

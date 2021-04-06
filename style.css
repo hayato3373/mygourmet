@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    background-color: rgba(243, 217, 182,0.3);
+}
+
+header{
+    background-color: rgba(243, 217, 182,0.3);
+}
+
+header h1{
+    margin: 0;
+    background-color: rgb(243, 217, 182);
+    padding: 15px;
+    color: rgb(226, 159, 82);
+    text-shadow: 7px 5px 3px white;
+    font-family:  YuGothic,'Yu Gothic',sans-seriff;
+    position: fixed;
+    width: 100%;
+}
+
+.pic{
+    padding: 150px 0 50px 0;
+}
+
+header img{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+section h1{
+    text-align: center;
+    padding: 50px 0;
+    margin: 0;
+}
+
+section p{
+    text-align: center;
+}
+
+section{
+    padding-bottom: 50px;
+    background-color: rgba(220, 220, 220, 0.377);
+    margin-bottom: 200px;
+}
+
+article{
+    width: 50%;
+    margin: 200px auto;
+}
+
+article h1{
+    font-size: 30px;
+    padding-bottom: 5px;
+    border-bottom: red solid 3px;
+    margin-bottom: 100px;
+}
+
+article p{
+    margin: 0;
+}
+
+.information{
+    display: inline-block;
+    background-color: rgb(243, 217, 182);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+
+
+article img{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
